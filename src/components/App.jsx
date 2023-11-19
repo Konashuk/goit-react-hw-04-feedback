@@ -1,4 +1,4 @@
-import Feedback from './feedback/feedback';
+import { Feedback } from './feedback/feedback';
 import { GlobalStyle } from './globalStyled';
 
 export const App = () => {
